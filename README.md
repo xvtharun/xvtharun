@@ -67,19 +67,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xvtharun&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xvtharun&theme=default" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xvtharun&layout=compact&theme=default" height="165"/>
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
