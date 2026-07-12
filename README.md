@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tharun R</h1>
+<h1 align="center">Heyy, I'm Tharun R</h1>
 <h3 align="center">Data Analyst | Power BI Developer | Turning Data into Decisions</h3>
 
 <p align="center">
