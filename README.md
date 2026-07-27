@@ -12,8 +12,6 @@
 - 🎓 B.Tech in Computer Science (2026), HKBK College of Engineering, Bengaluru — CGPA 8.7/10
 - 💻 Building full-stack applications with **Python & Django** — from data models to deployed apps
 - 🧪 Working with **Playwright & pytest** for automated software testing
-- 📊 Data Analytics Intern @ **Rooman Technologies** — scored 92/100, built enterprise-grade Power BI dashboards
-- 🏆 Microsoft Certified: **Power BI Data Analyst Associate (PL-300)**
 - 🌱 Currently strengthening **DSA** and core CS fundamentals for SDE interviews
 - 📍 Based in Bengaluru, India
 - 📫 Open to **Software Engineer / SDE / Backend Developer** opportunities
