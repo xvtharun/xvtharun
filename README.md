@@ -62,32 +62,32 @@
 <table>
   <tr>
     <td width="50%">
-      <b>💰 BudgetNest</b><br/>
-      Django-based family expense management app with multi-user login, models, and SQLite backend.
+      <b>🩺 <a href="https://github.com/xvtharun/diabetes-risk-predictor">diabetes-risk-predictor</a></b><br/>
+      Flask web app predicting diabetes risk from patient vitals using a Random Forest classifier, with StandardScaler and SimpleImputer preprocessing.
     </td>
     <td width="50%">
-      <b>📚 LearnPro</b><br/>
-      Django-based learning platform with structured app architecture and database-driven content.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🧪 QA Automation Suite</b><br/>
-      Automated test coverage for an e-commerce demo site using Python, Playwright, and pytest.
-    </td>
-    <td width="50%">
-      <b>📋 Job Application Tracker</b><br/>
-      Django app for tracking job applications end-to-end — models, views, and status tracking.
+      <b>💰 <a href="https://github.com/xvtharun/household-ledger">household-ledger</a></b><br/>
+      Full-stack personal expense tracking app built with Django & SQLite, with a clean interface for managing income and expenses.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>📊 HR Analytics Dashboard</b><br/>
-      Power BI dashboard analyzing 1,470 employees, uncovering a 16.12% attrition rate with custom DAX measures.
+      <b>📚 <a href="https://github.com/xvtharun/learnpro-django">learnpro-django</a></b><br/>
+      Multi-page Django project demonstrating URL routing, views, and template inheritance.
     </td>
     <td width="50%">
-      <b>🧠 Brain Tumor Detection (CNN)</b><br/>
-      Deep learning model for medical image classification using CNNs.
+      <b>👟 <a href="https://github.com/xvtharun/nike-vs-adidas-classifier">nike-vs-adidas-classifier</a></b><br/>
+      CNN built with TensorFlow/Keras classifying shoe images as Nike or Adidas, with full train/test evaluation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📊 <a href="https://github.com/xvtharun/HR-Analytics-Portfolio">HR-Analytics-Portfolio</a></b><br/>
+      Power BI dashboard analyzing workforce attrition across 1,470 employees — surfaces a 16.12% attrition rate.
+    </td>
+    <td width="50%">
+      <b>🛒 <a href="https://github.com/xvtharun/E-Commerce-Sales-Analysis-Dashboard">E-Commerce-Sales-Analysis-Dashboard</a></b><br/>
+      Dashboard analyzing sales performance, profit trends, and category-wise business insights.
     </td>
   </tr>
 </table>
