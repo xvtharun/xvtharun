@@ -20,6 +20,22 @@
 
 ---
 
+### 💼 Experience
+
+**Python Full Stack Developer** — KodNest *(Feb 2026 – May 2026 · 4 mos · Bengaluru, Remote)*
+- Built **BudgetNest**, a full-stack family expense management web app using Python, Django & HTML/CSS
+- Implemented user authentication with login & signup for secure access
+- Built features to add/view family members and track expenses via a dashboard interface
+- Applied Django ORM for database management and MVC architecture for structured development
+
+**Data Analytics Intern** — Rooman Technologies *(Dec 2025 – May 2026 · 6 mos · Bengaluru)*
+- Built an HR Analytics Dashboard in Power BI tracking attrition across 1,470 employees — identified a 16% attrition rate and key dropout factors by age, role & salary hike
+- Built an E-Commerce Sales Dashboard analyzing ₹2.3M+ sales, 24K orders across 4 regions and 3 categories
+- Applied DAX measures, Power Query transformations, and data modeling for interactive drill-down reports
+- Scored 92/100 in internship evaluation
+
+---
+
 ### 🛠️ Tech Stack
 
 **Programming & Backend**
